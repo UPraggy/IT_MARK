@@ -10,10 +10,13 @@
 - Aparece imagem dos produtos, quantidade, valor
 - Barra de pesquisa em cima
 - Categorias
+
 ## Pedidos
 - Meus pedidos: historico, avaliar
+
 ## Conta
 - Segurança email e wp
+
 ### Cadastro
 - Usuario
 - Email
@@ -28,12 +31,15 @@
 - Usuario
 - Email
 - Segurança email e wp
+
 ## Graficos
 - Previsão de faturamento
 - Estoque
-- 
+
+
 # FUNC FUNCTIONS
 - Cadastrar Cliente, selecionar Cliente
+
 ## Cadastro
 - Usuario
 - Email
