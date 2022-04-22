@@ -5,7 +5,7 @@ Any and all documentation related to the program will be in their respective fol
 The project presentation and documentation can be found at the link below.
 
 **This project aims to demonstrate programming skills. It must not be sold or used as a final product.**
-
+#### PROJECT IN IDEALIZATION STAGE
 ### [Link of project](https://upraggy.github.io/IT_MARK/) 
 <br>
 
